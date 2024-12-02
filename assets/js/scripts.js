@@ -1,6 +1,6 @@
 var NioApp =(function (jQ, win, doc){
     "use strict";
-    var NioApp = {AppInfo: {name: "GENOX", package: "1.3.0", version: "1.3.0", author: "Softnio"} },
+    var NioApp = {AppInfo: {name: "GENOX", package: "1.3.0", version: "1.3.0", author: "RoomEase"} },
         components = {docReady: [], docReadyDefer: [], winLoad: [], winLoadDefer: []};
 
     jQ(doc).ready(docReady);

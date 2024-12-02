@@ -1,6 +1,6 @@
 /*!
  * Theme Name: Genox -  Multipurpose HTML Template
- * Author: Softnio
+ * Author: RoomEase
  * Author URI: http://themeforest.net/user/softnio
  * Version: 1.4.1
  * Updated: 11.27.2019
@@ -2228,7 +2228,7 @@ h6, .h6, .fz-6 { font-size: 0.875rem; }
 .has-fixed.is-shrink .header-main-creative { padding: 0; }
 .header-container:not(.container) { width: 100%; padding: 0 15px; }
 .header-wrap { position: relative; width: 100%; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
-.header-logo { margin: 6px 0; flex-shrink: 0; }
+.header-logo { margin: 6px 0; flex-shrink: 0; width: 4.5rem; }
 .header-navbar { position: fixed; left: -280px; top: 0; width: 260px; height: 100vh; }
 .header-navbar.menu-mobile { transition: all 0.4s; display: block; }
 .header-navbar::before, .header-navbar-overlay { position: absolute; height: 100%; width: 100%; content: ''; top: 0; }
